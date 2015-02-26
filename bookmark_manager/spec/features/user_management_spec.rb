@@ -1,5 +1,5 @@
 require 'spec_helper'
-require_relative 'session_helper'
+require_relative 'helpers/session_helper'
 
 include SessionHelpers
 
